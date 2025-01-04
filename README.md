@@ -1,5 +1,4 @@
-<!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+
 
 <!--Night Owl image-->
 <div>
@@ -20,16 +19,11 @@
 -📚 Always looking to **expand my knowledge base**, explore **open-source projects**, and collaborate with **like-minded tech enthusiasts**.
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vbharshavardhana&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="vbharshavardhana" style="padding-right:20px;" />
-</p>
 
----
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -69,17 +63,7 @@
       </p>
     </td>
   </tr>
-  <tr>
-    
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/vbharshavardhana">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=vbharshavardhana&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
+ 
 </table>
 <br />
 
