@@ -36,7 +36,7 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>MERN</li>
-  <li>Woeking with LLMs</li>
+  <li>Working with LLMs</li>
   <li>Improving my skills in various tools.</li>
 </ul>
 <br />
