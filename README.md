@@ -113,7 +113,7 @@
 </a>
 
 <a href="https://x.com/harshavardhanavb" target="_blank">
-<img src="twitter.jpg" width=50 height=50 alt="harshavardhanavb" style="margin-bottom: 5px;" />
+<img src="twitter.png" width=50 height=50 alt="harshavardhanavb" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/harsha_uwu" target="_blank">
