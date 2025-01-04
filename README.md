@@ -16,7 +16,7 @@
 <p align="left">Hey there! I'm driven by the power of **technology to solve real-world problems** and am constantly exploring new tools and frameworks.</p>
 
 - 🌱 I’m currently working on MERN, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Member and at [DEV Community](https://dev.to)
+- 💁‍♂️ Member at [DEV Community](https://dev.to)
 - 💻 Visit my [Portfolio](https://dev.to) for more details about me.
 - 📚 Always looking to **expand my knowledge base**, explore **open-source projects**, and collaborate with **like-minded tech enthusiasts**.
 <!--End Intro-->
