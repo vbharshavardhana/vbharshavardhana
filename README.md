@@ -8,12 +8,12 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hii! ɪ'ᴍ ʜᴀʀꜱʜᴀᴠᴀʀᴅʜᴀɴᴀ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪꜱ ɪꜱ ʜᴀʀꜱʜᴀᴠᴀʀᴅʜᴀɴᴀ! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Hey there! I'm driven by the power of **technology to solve real-world problems** and am constantly exploring new tools and frameworks.</p>
+<p align="left">I'm driven by the power of **technology to solve real-world problems** and am constantly exploring new tools and frameworks.</p>
 
 - 🌱 I’m currently working on MERN, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Member at [DEV Community](https://dev.to)
