@@ -94,27 +94,27 @@
 <div align="center">
   
 <a href="mailto:harshavardhanavb@gmail.com" target="_blank">
-<img src="gmail.png" width=50 height=50 alt="harshavardhanavb@gmail.com" style="margin-bottom: 5px;" />
+<img src="gmail.png" width=30 height=30 alt="harshavardhanavb@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/harshavardhanavb" target="_blank">
-<img src="twitter.png" width=50 height=50 alt="harshavardhanavb" style="margin-bottom: 5px;" />
+<img src="twitter.png" width=30 height=30 alt="harshavardhanavb" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/harsha_uwu" target="_blank">
-<img src="instagram.png" width=50 height=50 alt="harsha_uwu" style="margin-bottom: 5px;" />
+<img src="instagram.png" width=30 height=30 alt="harsha_uwu" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.github.com/vbharshavardhana" target="_blank">
-<img src="github.png" width=50 height=50 alt="vbharshavardhana" style="margin-bottom: 5px;" />
+<img src="github.png" width=30 height=30 alt="vbharshavardhana" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/vbharshavardhana/" target="_blank">
-<img src="linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="linkedin.png" width=30 height=30 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://dev.to/vbharshavardhana" target="_blank">
-<img src="dev_to.png" width=50 height=50 alt="vbharshavardhana" style="margin-bottom: 5px;" />
+<img src="dev_to.png" width=30 height=30 alt="vbharshavardhana" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
