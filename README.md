@@ -6,7 +6,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ HARSHAVARDHANA! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʜᴀʀꜱʜᴀᴠᴀʀᴅʜᴀɴᴀ! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
@@ -15,8 +15,8 @@
 
 - 🌱 I’m currently working on MERN, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Member and at [DEV Community](https://dev.to)
-- 💻 Visit my [Portfolio](#write once) for more details about me.
--📚 Always looking to **expand my knowledge base**, explore **open-source projects**, and collaborate with **like-minded tech enthusiasts**.
+- 💻 Visit my [Portfolio](https://dev.to) for more details about me.
+- 📚 Always looking to **expand my knowledge base**, explore **open-source projects**, and collaborate with **like-minded tech enthusiasts**.
 <!--End Intro-->
 
 
