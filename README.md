@@ -48,9 +48,7 @@
 <br />
 <br />
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
+<!--Github stats Table-->
 <table width="100%">
   <tr>
     <td width="50%">
