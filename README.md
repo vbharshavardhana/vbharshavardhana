@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently working on MERN, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Member at [DEV Community](https://dev.to)
-- 💻 [Visit me](https://vbharshavardhana.vercel.app) for more details about me.
+- 💻 [Visit me](https://vbharshavardhana.vercel.app) for more details.
 - 📚 Always looking to **expand my knowledge base**, explore **open-source projects**, and collaborate with **like-minded tech enthusiasts**.
 <!--End Intro-->
 
